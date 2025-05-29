@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9786d20e-846b-4fbc-ad36-92426709e9b9}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="name">
 			<value>Fire</value>
 		</property>
@@ -47,6 +50,9 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{7363f098-bf99-4ce9-9932-a0b6ab23433e}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{56ea36df-eb50-445c-be83-a7ad32a16abf}</destination>
 		</relationship>
@@ -54,7 +60,7 @@
 			<destination>{27aaea58-e914-4b67-b276-2c786c1d67cb}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{197bb992-246b-404c-bf79-a6ca59d5009f}</destination>
+			<destination>{efea699c-a966-4ea4-abdd-a32667a34249}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{fa54240f-52b5-4d4a-9a97-369076e692c0}" />

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{8811e2a5-8d2f-4bc8-91d6-61547eac2240}">
+		<property name="color">
+			<value>Red Light 2</value>
+		</property>
 		<property name="name">
 			<value>Jumps</value>
 		</property>
@@ -53,6 +56,9 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{4ac7927d-3f49-476a-843a-769fb8cba937}">
+		<property name="color">
+			<value>Red Light 2</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{800359ae-643c-46fd-bf7e-aa84cba59ff8}</destination>
 		</relationship>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{3651ab96-b23d-4a23-ae47-7568e23d9149}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
 		<property name="name">
 			<value>Tavern Ambient</value>
 		</property>
@@ -46,6 +49,12 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{86af1f24-0840-43ff-b999-a99d39e422ff}">
+		<property name="color">
+			<value>Purple</value>
+		</property>
+		<relationship name="masters">
+			<destination>{a864a98a-3072-4fb2-962a-72938016bae8}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{317bf90e-416e-45a0-a637-5844f23ea311}</destination>
 		</relationship>
@@ -53,7 +62,7 @@
 			<destination>{77da515b-2f77-4255-944a-80dc50191f5f}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{197bb992-246b-404c-bf79-a6ca59d5009f}</destination>
+			<destination>{efea699c-a966-4ea4-abdd-a32667a34249}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{5d58a25d-cf3e-4984-a72f-e5b5f866b773}" />

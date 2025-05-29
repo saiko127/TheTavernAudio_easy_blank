@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{86bf7399-9bcc-44f0-ac21-1853fe30f293}">
+		<property name="color">
+			<value>Magenta Light 1</value>
+		</property>
 		<property name="name">
 			<value>Footsteps</value>
 		</property>
@@ -50,6 +53,9 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{dcbaf07e-3f98-4d74-b077-f9d8b1794c1a}">
+		<property name="color">
+			<value>Magenta Light 1</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{997dd2c8-b215-4105-a9db-ac0c52f3f33a}</destination>
 		</relationship>
@@ -57,7 +63,7 @@
 			<destination>{daaf9181-9f34-4bea-929f-9371f0f718d3}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{197bb992-246b-404c-bf79-a6ca59d5009f}</destination>
+			<destination>{b840f9d2-6132-4294-92fc-332358a09967}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{9ca48f81-6f27-4716-83fe-d40b55fe0c76}" />

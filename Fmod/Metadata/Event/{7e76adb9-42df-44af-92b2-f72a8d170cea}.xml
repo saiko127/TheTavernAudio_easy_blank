@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{7e76adb9-42df-44af-92b2-f72a8d170cea}">
+		<property name="color">
+			<value>Purple Light 1</value>
+		</property>
 		<property name="name">
 			<value>Door</value>
 		</property>
@@ -50,6 +53,9 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{b467a4e0-03a4-4848-b6bb-9bfb529a9e42}">
+		<property name="color">
+			<value>Purple Light 1</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{04acd6ea-d488-4994-993a-b9ca2f62f630}</destination>
 		</relationship>
@@ -57,7 +63,7 @@
 			<destination>{bc65d900-6a0f-4b15-bdc6-e6034106674f}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{197bb992-246b-404c-bf79-a6ca59d5009f}</destination>
+			<destination>{f5dca1b7-58cd-40f7-91f1-c56d972c4faf}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{40522093-8b44-41a4-a750-6042cb8eeb5e}" />
@@ -73,6 +79,7 @@
 	<object class="GroupTrack" id="{feebc140-6633-4f42-89cf-c17edd8f481b}">
 		<relationship name="modules">
 			<destination>{420aed34-b6a9-416c-aee5-f1062bfc7694}</destination>
+			<destination>{43c80187-97ea-46c1-b2a9-4a9cd5cc6687}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{243087a9-885f-455f-9ed4-64c191501ee7}</destination>
@@ -82,6 +89,7 @@
 		<relationship name="modules">
 			<destination>{420aed34-b6a9-416c-aee5-f1062bfc7694}</destination>
 			<destination>{37558e1a-98f9-4f42-ab75-ae00b782b3b6}</destination>
+			<destination>{43c80187-97ea-46c1-b2a9-4a9cd5cc6687}</destination>
 		</relationship>
 	</object>
 	<object class="ParameterProxy" id="{bec6984d-6371-4507-9fa6-10287a3e0942}">
@@ -108,7 +116,7 @@
 	<object class="MixerBusPanner" id="{bc65d900-6a0f-4b15-bdc6-e6034106674f}" />
 	<object class="SingleSound" id="{37558e1a-98f9-4f42-ab75-ae00b782b3b6}">
 		<property name="length">
-			<value>0.62501133786848073</value>
+			<value>0.62501133786848084</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{4ec39e89-09d0-42d3-935e-2da7803f4e69}</destination>
@@ -137,7 +145,7 @@
 	</object>
 	<object class="SingleSound" id="{420aed34-b6a9-416c-aee5-f1062bfc7694}">
 		<property name="length">
-			<value>0.75</value>
+			<value>0.375</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{74644bea-1144-4471-9582-3ed7c79be708}</destination>
@@ -145,6 +153,27 @@
 		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{60df8071-77f7-4d2e-bf98-0c6fa9676932}</destination>
+		</relationship>
+		<relationship name="audioFile">
+			<destination>{86aa64d4-c38d-49f2-92be-77db05186087}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{43c80187-97ea-46c1-b2a9-4a9cd5cc6687}">
+		<property name="start">
+			<value>0.44500000000000001</value>
+		</property>
+		<property name="length">
+			<value>0.375</value>
+		</property>
+		<property name="timelockedOffset">
+			<value>0.375</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{11953aa2-c9fe-4ae5-81e1-d891926c49ca}</destination>
+			<destination>{a5d73890-508a-4c20-88ac-865a558365d2}</destination>
+		</relationship>
+		<relationship name="triggerConditions">
+			<destination>{ca438245-74a6-428e-a2fb-788f9e5454ad}</destination>
 		</relationship>
 		<relationship name="audioFile">
 			<destination>{86aa64d4-c38d-49f2-92be-77db05186087}</destination>
@@ -222,6 +251,33 @@
 		</property>
 	</object>
 	<object class="ParameterCondition" id="{60df8071-77f7-4d2e-bf98-0c6fa9676932}">
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>1</value>
+		</property>
+		<relationship name="parameter">
+			<destination>{dc81baf2-8767-4870-bd1a-c4173c1a5861}</destination>
+		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{11953aa2-c9fe-4ae5-81e1-d891926c49ca}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>4</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{a5d73890-508a-4c20-88ac-865a558365d2}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>5.5</value>
+		</property>
+	</object>
+	<object class="ParameterCondition" id="{ca438245-74a6-428e-a2fb-788f9e5454ad}">
 		<property name="minimum">
 			<value>1</value>
 		</property>

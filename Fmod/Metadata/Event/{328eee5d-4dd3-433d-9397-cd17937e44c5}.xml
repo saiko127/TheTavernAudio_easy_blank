@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{328eee5d-4dd3-433d-9397-cd17937e44c5}">
+		<property name="color">
+			<value>Blue Light 1</value>
+		</property>
 		<property name="name">
 			<value>Ambient Forest</value>
 		</property>
@@ -46,6 +49,12 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{a191c708-3445-4c0b-9670-8cae888d2537}">
+		<property name="color">
+			<value>Blue Light 1</value>
+		</property>
+		<relationship name="masters">
+			<destination>{0610abc0-6fd2-4482-abc4-4f3c3b31783d}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{bb19deec-8ff4-41d7-994f-328692a15f09}</destination>
 		</relationship>
@@ -53,7 +62,7 @@
 			<destination>{5e1fce35-532f-49c6-9c97-3acc1e88aa6b}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{197bb992-246b-404c-bf79-a6ca59d5009f}</destination>
+			<destination>{49d40aca-cffa-445b-8a11-1e0f5f66703d}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{c552c64c-dc05-4ddb-acfb-19e0115fbf05}" />
