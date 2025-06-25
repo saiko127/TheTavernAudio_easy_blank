@@ -67,7 +67,7 @@ public class Footsteps : MonoBehaviour
             {
                 FootstepsSound = FMODUnity.RuntimeManager.CreateInstance(footstepsEvent);
                 FootstepsSound.set3DAttributes(FMODUnity.RuntimeUtils.To3DAttributes(gameObject.transform));
-                FootstepsSound.setParameterByNameWithLabel("FootSwitcher", "stone");
+                FootstepsSound.setParameterByNameWithLabel("FootSwitcher", "Stone");
                 FootstepsSound.start();
                 FootstepsSound.release();
             }
@@ -75,7 +75,7 @@ public class Footsteps : MonoBehaviour
             {
                 FootstepsSound = FMODUnity.RuntimeManager.CreateInstance(footstepsEvent);
                 FootstepsSound.set3DAttributes(FMODUnity.RuntimeUtils.To3DAttributes(gameObject.transform));
-                FootstepsSound.setParameterByNameWithLabel("FootSwitcher", "wood");
+                FootstepsSound.setParameterByNameWithLabel("FootSwitcher", "Wood");
                 FootstepsSound.start();
                 FootstepsSound.release();
             }
@@ -129,22 +129,22 @@ public class Footsteps : MonoBehaviour
                     //Debug.Log(hit.collider.tag);
                     if (hit.collider.CompareTag("Stone"))
                     {
-                        JumpSound.setParameterByNameWithLabel("FootSwitcher", "stone");
+                        JumpSound.setParameterByNameWithLabel("Jump Switcher", "Stone");
                         JumpSound.start();
                     }
                     else if (hit.collider.CompareTag("Wood"))
                     {
-                        JumpSound.setParameterByNameWithLabel("FootSwitcher", "wood");
+                        JumpSound.setParameterByNameWithLabel("Jump Switcher", "Wood");
                         JumpSound.start();
                     }
                     else if (hit.collider.CompareTag("Inside_stone"))
                     {
-                        LandSound.setParameterByNameWithLabel("FootSwitcher", "stone");
+                        JumpSound.setParameterByNameWithLabel("Jump Switcher", "Stone");
                         JumpSound.start();
                     }
                     else if (hit.collider.CompareTag("Inside_wood"))
                     {
-                        LandSound.setParameterByNameWithLabel("FoorSwitcher", "wood");
+                        JumpSound.setParameterByNameWithLabel("Jump Switcher", "Wood");
                         JumpSound.start();
                     }
                     else if (hit.collider.CompareTag("Bed"))
@@ -189,22 +189,22 @@ public class Footsteps : MonoBehaviour
                     //Debug.Log("Hit object tag: " + hit.collider.tag);
                     if (hit.collider.CompareTag("Stone"))
                     {
-                        LandSound.setParameterByNameWithLabel("FootSwitcher", "stone");
+                        LandSound.setParameterByNameWithLabel("FootSwithcer", "Stone");
                         LandSound.start();
                     }
                     else if (hit.collider.CompareTag("Wood"))
                     {
-                        LandSound.setParameterByNameWithLabel("FootSwitcher", "wood");
+                        LandSound.setParameterByNameWithLabel("FootSwitcher", "Wood");
                         LandSound.start();
                     }
                     else if (hit.collider.CompareTag("Inside_stone"))
                     {
-                        LandSound.setParameterByNameWithLabel("Jump Switch", "stone");
+                        LandSound.setParameterByNameWithLabel("FootSwitcher", "Stone");
                         LandSound.start();
                     }
                     else if (hit.collider.CompareTag("Inside_wood"))
                     {
-                        LandSound.setParameterByNameWithLabel("Jump Switch", "wood");
+                        LandSound.setParameterByNameWithLabel("FootSwitcher", "Wood");
                         LandSound.start();
                     }
                     else if (hit.collider.CompareTag("Bed"))

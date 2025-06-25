@@ -41,7 +41,7 @@ MonoBehaviour:
   Path: Fmod/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638847169156320639
+  lastModified: 638864835224011149
   FileSizes:
   - Name: Desktop
     Value: 1658
@@ -96,8 +96,8 @@ MonoBehaviour:
   Type: 2
   IsGlobal: 0
   Labels:
-  - stone
-  - wood
+  - Stone
+  - Wood
   Exists: 1
 --- !u!114 &-1675791049515741461
 MonoBehaviour:
@@ -239,7 +239,7 @@ MonoBehaviour:
   - {fileID: 8663931340968447251}
   StringsBanks:
   - {fileID: -3991992822740306119}
-  cacheTime: 638847169156320639
+  cacheTime: 638864835224011149
   cacheVersion: 131617
 --- !u!114 &1011166949225588991
 MonoBehaviour:
@@ -292,8 +292,8 @@ MonoBehaviour:
   Type: 2
   IsGlobal: 0
   Labels:
-  - stone
-  - wood
+  - Stone
+  - Wood
   Exists: 1
 --- !u!114 &4173816062126049097
 MonoBehaviour:
@@ -446,7 +446,7 @@ MonoBehaviour:
   Path: Fmod/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638847169156310644
+  lastModified: 638864835223991077
   FileSizes:
   - Name: Desktop
     Value: 6926528

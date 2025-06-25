@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\TheTavernAudio_easy_blank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|d:\\unity\\thetavernaudio_easy_blank\\assets\\scripts\\oldscripts\\vca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oldscripts\\vca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|d:\\unity\\thetavernaudio_easy_blank\\assets\\scripts\\oldscripts\\outside_snapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oldscripts\\outside_snapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|d:\\unity\\thetavernaudio_easy_blank\\assets\\scripts\\oldscripts\\musicswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oldscripts\\musicswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|D:\\Unity\\TheTavernAudio_easy_blank\\assets\\scripts\\oldscripts\\roomambient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oldscripts\\roomambient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|D:\\Unity\\TheTavernAudio_easy_blank\\assets\\scripts\\oldscripts\\outside_foot_switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oldscripts\\outside_foot_switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA20562-3592-112C-32D1-14C7E062FB60}|FMODUnity.csproj|D:\\Unity\\TheTavernAudio_easy_blank\\assets\\plugins\\fmod\\src\\runtimeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA20562-3592-112C-32D1-14C7E062FB60}|FMODUnity.csproj|solutionrelative:assets\\plugins\\fmod\\src\\runtimeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|D:\\Unity\\TheTavernAudio_easy_blank\\assets\\scripts\\oldscripts\\doors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oldscripts\\doors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|D:\\Unity\\TheTavernAudio_easy_blank\\assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|d:\\unity\\thetavernaudio_easy_blank\\assets\\scripts\\oldscripts\\footsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oldscripts\\footsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|D:\\Unity\\TheTavernAudio_easy_blank\\assets\\scripts\\fmod_commands_pl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8EF9BC-333C-8C98-29D8-83E01BD7FF74}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fmod_commands_pl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VCA.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\VCA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OldScripts\\VCA.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\VCA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OldScripts\\VCA.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv20AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:24:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Outside_snapshot.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Outside_snapshot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OldScripts\\Outside_snapshot.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Outside_snapshot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OldScripts\\Outside_snapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:24:09.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicSwitch.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\MusicSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OldScripts\\MusicSwitch.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\MusicSwitch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OldScripts\\MusicSwitch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:23:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomAmbient.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\RoomAmbient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OldScripts\\RoomAmbient.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\RoomAmbient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OldScripts\\RoomAmbient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:18:13.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Outside_foot_switch.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Outside_foot_switch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OldScripts\\Outside_foot_switch.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Outside_foot_switch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OldScripts\\Outside_foot_switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:18:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RuntimeUtils.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "RelativeToolTip": "Assets\\Plugins\\FMOD\\src\\RuntimeUtils.cs",
+              "ViewState": "AgIAACYCAAAAAAAAAAAqwEMCAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:18:14.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doors.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Doors.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OldScripts\\Doors.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Doors.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OldScripts\\Doors.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:18:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interactor.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\Interactor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactor.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\Interactor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:18:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Footsteps.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Footsteps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OldScripts\\Footsteps.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\OldScripts\\Footsteps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OldScripts\\Footsteps.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwN8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T21:18:14.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FMOD_Commands_PL.cs",
+              "DocumentMoniker": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\FMOD_Commands_PL.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FMOD_Commands_PL.cs",
+              "ToolTip": "D:\\Unity\\TheTavernAudio_easy_blank\\Assets\\Scripts\\FMOD_Commands_PL.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FMOD_Commands_PL.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-19T21:18:14.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
